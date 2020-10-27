@@ -5,3 +5,4 @@ Git tracks changes of files.
 Creating a new branch dev is quick.
 Creating a new branch by "git checkout -b dev"
 Creating a new branch by "git switch -c dev"
+Creating a branch by "git branch"
